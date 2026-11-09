@@ -1,0 +1,3 @@
+a)Lorsque en clique sur « Annuler » dans la fenêtre prompt() le champ 'votre nom est' reste vide.
+la variable nomSaisi prend la valeur usernameInput.
+b)
